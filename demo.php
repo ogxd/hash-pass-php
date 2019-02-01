@@ -22,4 +22,4 @@ $password = getPassword($key, $service);
 <i><?php echo round(((pow(45, 12)*4)/20000000)/86400); ?> days are required to crack this password knowing the charset.</i><br>
 <i><?php echo round(((pow(58, 12)*20)/20000000)/86400); ?> days are required to crack this password without knowing the charset.</i><br>
 <br>
-<img src="text_to_image.php?text=<?php echo $password; ?>" id='captchaimg'>
+<img src="text_to_image.php?text=<?php echo $password; ?>" id='password'>
