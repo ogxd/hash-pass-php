@@ -2,7 +2,7 @@
 Handy but ultra secure simple hash based password generation
 
 ## Demo
-![demo](https://raw.githubusercontent.com/Ogx8/hash-pass/master/demo.jpg)
+![demo](https://raw.githubusercontent.com/ogxd/hash-pass/master/demo.jpg)
 
 ## How to setup
 - Copy repo content to an FTP server.
