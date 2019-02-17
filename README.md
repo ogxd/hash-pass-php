@@ -1,8 +1,8 @@
-# Hsh-Pswd
+# Hash-Pass
 Handy but ultra secure simple hash based password generation
 
 ## Demo
-![demo](https://raw.githubusercontent.com/Ogx8/Hsh-Pswd/master/demo.jpg)
+![demo](https://raw.githubusercontent.com/Ogx8/hash-pass/master/demo.jpg)
 
 ## How to setup
 - Copy repo content to an FTP server.
